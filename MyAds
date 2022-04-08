@@ -1,0 +1,6 @@
+{
+  "Admob": {"InterId": "ca-app-pub-0000000000000000/0000000000"},
+  "Unity": {"gameId":"gamefirst", "InterId": "interstitialID" },
+  "DefaultAds": "Admob",
+  "CountryForSecAds": ["RU"]
+}
