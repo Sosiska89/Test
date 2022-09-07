@@ -1,7 +1,7 @@
 {
   "Link": "" ,
-  "TimeZones": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk", "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka"] ,
-  "Locale": ["Russian"],
+  "TimeZones": ["Калининград", "Киров", "Москва", "Волгоград", "Самара", "Саратов", "Екатеринбург", "Омск", "Барнаул", "Красноярск", "Новосибирск", "Иркутск", "Чита", "Владивосток", "Магадан", "Сахалин", "Среднеколымск", "Анадырь", "Петропавловск-Камчатский"] ,
+  "Locale": ["ru-RU"],
   "IpCountryCode": ["RU","KZ","AM","AZ","BY","KG","MD","TJ","UZ"],
   "SimCodes": ["250", "401", "283", "400", "257", "437", "259", "436", "434"],
   "IsCheckIP": true,
