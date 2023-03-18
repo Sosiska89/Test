@@ -1,0 +1,7 @@
+{
+  "AdsEnable": false ,
+  "InterMenu": "ca-app-pub-0000000000000000/0000000000",
+  "InterPerSpawnItem": "ca-app-pub-0000000000000000/0000000000",
+  "InterForItem": "ca-app-pub-0000000000000000/0000000000",
+  "ShowInterPerItem": 8
+}
