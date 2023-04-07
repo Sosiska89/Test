@@ -1,5 +1,6 @@
 {
   "AdsEnable": true ,
-  "Inter": "ca-app-pub-3940256099942544/1033173712",
+  "InterPerClick": "ca-app-pub-3940256099942544/1033173712",
+  "InterForInstall": "ca-app-pub-3940256099942544/1033173712",
   "ShowInterPerClick": 4
 }
