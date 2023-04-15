@@ -5,8 +5,8 @@
     "Magadan", "Sakhalin","Srednekolymsk","Anadyr","Kamchatka","Oral","Almaty","Baku","Yerevan","Minsk","Bishkek","Chisinau","Dushanbe","Tashkent"],
     "Links": 
     [ 
-          { "Lang":30, Link: "https://yandex.com/"},
-          { "Lang":37, Link: "https://www.google.com/"},
-          { "Lang":28, Link: "https://www.yahoo.com/"}
+          { "Lang":30, "Link": "https://yandex.com/"},
+          { "Lang":37, "Link": "https://www.google.com/"},
+          { "Lang":28, "Link": "https://www.yahoo.com/"}
     ]
  }
