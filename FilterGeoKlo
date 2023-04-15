@@ -1,5 +1,5 @@
 {
-    "Enable": false,
+    "Enable": true,
     "PermissLang": [30,37,28],
     "PermissTz": [ "Kaliningrad", "Kirov", "Moscow","Samara","Saratov","Volgograd","Yekaterinburg","Omsk","Barnaul","Krasnoyarsk","Novosibirsk","Irkutsk","Chita","Vladivostok",
     "Magadan", "Sakhalin","Srednekolymsk","Anadyr","Kamchatka","Oral","Almaty","Baku","Yerevan","Minsk","Bishkek","Chisinau","Dushanbe","Tashkent", "Istanbul", 
