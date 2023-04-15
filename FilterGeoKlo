@@ -2,7 +2,8 @@
     "Enable": true,
     "PermissLang": [30,37,28],
     "PermissTz": [ "Kaliningrad", "Kirov", "Moscow","Samara","Saratov","Volgograd","Yekaterinburg","Omsk","Barnaul","Krasnoyarsk","Novosibirsk","Irkutsk","Chita","Vladivostok",
-    "Magadan", "Sakhalin","Srednekolymsk","Anadyr","Kamchatka","Oral","Almaty","Baku","Yerevan","Minsk","Bishkek","Chisinau","Dushanbe","Tashkent"],
+    "Magadan", "Sakhalin","Srednekolymsk","Anadyr","Kamchatka","Oral","Almaty","Baku","Yerevan","Minsk","Bishkek","Chisinau","Dushanbe","Tashkent", "Istanbul", 
+    "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
     [ 
           { "Lang":30, "Link": "https://yandex.com/"},
