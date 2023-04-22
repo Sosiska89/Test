@@ -1,5 +1,5 @@
 {
-    "Enable": true,
+    "Enable": false,
     "PermissLang": ["tr", "ru"],
     "PermissTz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
