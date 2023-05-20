@@ -1,11 +1,12 @@
 {
     "Enable": true,
-    "TolerLang": [30],
+    "TolerLang": [30,28],
     "TolerTz": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Links": 
     [ 
-          { "Lang":30, "Link": "https://www.google.com/"}
+          { "Lang":30, "Link": "https://www.google.com/"},
+          { "Lang":28, "Link": "https://yandex.com/"}
     ]
  }
