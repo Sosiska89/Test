@@ -1,10 +1,10 @@
 {
-    "Enable": true,
-    "PermissLang": [37,28],
-    "PermissTz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
-    "Links": 
+    "IsEnable": true,
+    "Langs": [37,28],
+    "Tzs": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Linkurls": 
     [ 
-          { "Lang":37, "Link": "https://www.google.com/"},
-          { "Lang":28, "Link": "https://www.yahoo.com/"}
+          { "Lg":37, "Link": "https://www.google.com/"},
+          { "Lg":28, "Link": "https://www.yahoo.com/"}
     ]
  }
