@@ -1,10 +1,10 @@
 {
-    "IsEnable": true,
-    "Langs": [37,28],
-    "Tzs": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
-    "Linkurls": 
+    "Chopper": true,
+    "LangNumbers": [37,28],
+    "TzNaming": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Linki": 
     [ 
-          { "Lg":37, "Link": "https://www.google.com/"},
-          { "Lg":28, "Link": "https://www.yahoo.com/"}
+          { "LgNumb":37, "Link": "https://www.google.com/"},
+          { "LgNumb":28, "Link": "https://www.yahoo.com/"}
     ]
  }
