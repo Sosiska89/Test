@@ -1,0 +1,10 @@
+{
+    "IsOn": true,
+    "Lang": [37,28],
+    "Timing": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Linki": 
+    [ 
+          { "Lang":37, "Link": "https://www.google.com/"},
+          { "Lang":28, "Link": "https://www.yahoo.com/"}
+    ]
+ }
