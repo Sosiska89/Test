@@ -1,10 +1,11 @@
 {
     "IsOn": true,
-    "Lang": [37,28],
-    "Timing": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Lang": [30],
+    "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Linki": 
     [ 
-          { "Lang":37, "Link": "https://www.google.com/"},
-          { "Lang":28, "Link": "https://www.yahoo.com/"}
+          { "Lang":30, "Link": "https://www.google.com/"}
     ]
  }
