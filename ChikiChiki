@@ -1,0 +1,12 @@
+{
+    "Enable": true,
+    "Lang": ["Russian", "Turkish"],
+    "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Links": 
+    [ 
+          { "Lang":"Russian", "Link": "https://www.google.com/"},
+          { "Lang":"Turkish", "Link": "https://www.yahoo.com/"}
+    ]
+ }
