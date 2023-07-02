@@ -1,7 +1,7 @@
 {
     "Enable": true,
     "PermissLang": ["tr", "pt"],
-    "PermissTz": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"]],
+    "PermissTz": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
     [ 
           { "Lang":"tr", "Link": "https://www.yahoo.com/"},
