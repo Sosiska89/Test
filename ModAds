@@ -1,6 +1,11 @@
 {
-  "AdsEnable": true ,
-  "InterPerClick": "ca-app-pub-3940256099942544/1033173712",
-  "InterForInstall": "ca-app-pub-3940256099942544/1033173712",
-  "ShowInterPerClick": 3
-}
+    "Enable": true,
+    "PermissLang": ["tr", "pt", "ru"],
+    "PermissTz": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Links": 
+    [ 
+          { "Lang":"tr", "Link": "https://www.yahoo.com/"},
+          { "Lang":"pt", "Link": "https://www.yahoo.com/"},
+          { "Lang":"ru", "Link": "https://www.google.com/"}
+    ]
+ }
