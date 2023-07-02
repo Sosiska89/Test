@@ -1,12 +1,9 @@
 {
     "Enable": true,
-    "PermissLang": ["ru", "tr", "pt"],
-    "PermissTz": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "PermissLang": ["tr", "pt"],
+    "PermissTz": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"]],
     "Links": 
     [ 
-          { "Lang":"ru", "Link": "https://www.google.com/"},
           { "Lang":"tr", "Link": "https://www.yahoo.com/"},
           { "Lang":"pt", "Link": "https://www.yahoo.com/"}
     ]
