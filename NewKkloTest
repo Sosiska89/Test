@@ -1,0 +1,6 @@
+{
+    "Enable": true,
+    "PermissLang": "tr,pt,ru",
+    "PermissTz": "Istanbul,Turkey,Rio_Branco,Cuiaba,Manaus,Bahia,Sao_Paulo,Noronha",
+    "Links": "https://www.yahoo.com/,https://dzen.ru/?force_common_feed=1,https://www.google.com/"
+ }
