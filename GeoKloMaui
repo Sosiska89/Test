@@ -1,10 +1,11 @@
 {
     "Enable": true,
-    "PermissLang": ["tr", "pt"],
+    "PermissLang": ["tr", "pt", "ru"],
     "PermissTz": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
     [ 
           { "Lang":"tr", "Link": "https://www.yahoo.com/"},
-          { "Lang":"pt", "Link": "https://www.yahoo.com/"}
+          { "Lang":"pt", "Link": "https://www.yahoo.com/"},
+          { "Lang":"ru", "Link": "https://www.google.com/"}
     ]
  }
