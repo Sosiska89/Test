@@ -1,6 +1,6 @@
 {
     "Enable": true,
-    "PermissLang": "",
-    "PermissTz": "Istanbul,Turkey,Rio_Branco,Cuiaba,Manaus,Bahia,Sao_Paulo,Noronha",
-    "Links": ""
+    "PermissLang": "ru",
+    "PermissTz": "Istanbul,Turkey,Rio_Branco,Cuiaba,Manaus,Bahia,Sao_Paulo,Noronha,Almaty",
+    "Links": "https://www.google.com/"
  }
