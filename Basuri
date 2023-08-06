@@ -1,5 +1,5 @@
 {
-  "AdsEnable": true,
+  "AdsEnable": false,
   "InterAfterLoading": "ca-app-pub-3940256099942544/1033173712",
   "InterPerExit": "ca-app-pub-3940256099942544/1033173712",
   "InterForReset": "ca-app-pub-3940256099942544/1033173712"
