@@ -1,5 +1,5 @@
 {
-    "PermissEnter": true,
+    "PermissEnter": false,
     "Lglang": ["Turkish", "Portuguese", "Russian"],
     "TimeTime": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Almaty"],
     "Urils": 
