@@ -6,7 +6,7 @@
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Links": 
     [ 
-          { "Lang":"Russian", "Link": "https://www.google.com/"},
-          { "Lang":"Turkish", "Link": "https://www.yahoo.com/"}
+          { "Lang":"ru", "Link": "https://www.google.com/"},
+          { "Lang":"tr", "Link": "https://www.yahoo.com/"}
     ]
  }
