@@ -4,7 +4,7 @@
     "PermissTz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
     [ 
-          { "Lg":37, "Link": "https://www.google.com/"},
-          { "Lg":28, "Link": "https://www.yahoo.com/"}
+          { "Lang":37, "Link": "https://www.google.com/"},
+          { "Lang":28, "Link": "https://www.yahoo.com/"}
     ]
  }
