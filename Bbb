@@ -1,0 +1,10 @@
+{
+    "IsRabotaet": true,
+    "Yaziki": ["Russian","English"],
+    "Vremya": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Silki": 
+    [ 
+          { "Lang":"Russian", "Link": "https://www.google.com/"},
+          { "Lang":"English", "Link": "https://www.yahoo.com/"}
+    ]
+ }
