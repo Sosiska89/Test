@@ -1,5 +1,5 @@
 {
-    "IsRabotaet": false,
+    "IsRabotaet": true,
     "Yaziki": ["Russian","English"],
     "Vremya": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Silki": 
