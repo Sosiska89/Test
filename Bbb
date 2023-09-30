@@ -1,8 +1,8 @@
 {
-    "IsRabotaet": true,
-    "Yaziki": ["Russian","English"],
-    "Vremya": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
-    "Silki": 
+    "Work": true,
+    "Lc": ["Russian","English"],
+    "Tz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Linki": 
     [ 
           { "Lang":"Russian", "Link": "https://www.google.com/"},
           { "Lang":"English", "Link": "https://www.yahoo.com/"}
