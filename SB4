@@ -1,8 +1,8 @@
 {
-    "IsEnter": true,
-    "Llang": ["Turkish", "Portuguese", "Russian"],
-    "Timez": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Almaty"],
-    "Urilsz": 
+    "PermissEnter": true,
+    "Lglang": ["Turkish", "Portuguese", "Russian"],
+    "TimeTime": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Almaty"],
+    "Urils": 
     [ 
           { "Lang":"Turkish", "Link": "https://www.google.com/"},
           { "Lang":"Portuguese", "Link": "https://www.yahoo.com/"},
