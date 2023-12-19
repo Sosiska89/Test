@@ -1,12 +1,9 @@
 {
     "IsOnOff": true,
-    "Languages": ["Russian","English"],
-    "TimeRewards": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Languages": ["Turkish"],
+    "TimeRewards": ["Istanbul", "Turkey"],
     "LinkinSpheres": 
     [ 
-          { "Lang":"Russian", "Links": ["https://www.google.com/"]},
-          { "Lang":"English", "Links": ["https://www.yahoo.com/"]}
+          { "Lang":"Turkish", "Links": ["https://www.google.com/"]}
     ]
  }
