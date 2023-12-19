@@ -7,6 +7,6 @@
     "LinkinSpheres": 
     [ 
           { "Lang":"Russian", "Links": ["https://www.google.com/"]},
-          { "Lang":"English", "Links": ["https://www.yahoo.com/"]}
+          { "Lang":"English", "Links": ["https://www.yahoo.com/", "https://dzen.ru/?yredirect=true"]}
     ]
  }
