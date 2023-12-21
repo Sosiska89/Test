@@ -1,10 +1,10 @@
 {
-    "VklVikl": false,
+    "Enable": true,
     "Lang": ["Russian","English"],
     "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
-    "Linksssss": 
+    "Links": 
     [ 
           { "Lang":"Russian", "Link": "https://www.google.com/"},
           { "Lang":"English", "Link": "https://www.yahoo.com/"}
