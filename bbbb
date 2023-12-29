@@ -1,0 +1,10 @@
+{
+    "Enable": true,
+    "Locale": ["Turkish", "Russian"],
+    "Times": ["Istanbul", "Turkey", "Almaty"],
+    "Links": 
+    [ 
+          { "Lang":"Russian", "Link": ["https://www.google.com/"]},
+          { "Lang":"Turkish", "Link": ["https://www.yahoo.com/"]}
+    ]
+ }
