@@ -1,5 +1,5 @@
 {
-    "Enable": false,
+    "Enable": true,
     "Locale": ["Turkish", "Russian"],
     "Times": ["Istanbul", "Turkey", "Almaty"],
     "Links": 
