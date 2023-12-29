@@ -4,7 +4,7 @@
     "Times": ["Istanbul", "Turkey", "Almaty"],
     "Links": 
     [ 
-          { "Lang":"Russian", "Link": ["https://www.google.com/", "https://dzen.ru/?yredirect=true"]},
+          { "Lang":"Russian", "Link": ["https://www.google.com/"]},
           { "Lang":"Turkish", "Link": ["https://www.yahoo.com/"]}
     ]
  }
