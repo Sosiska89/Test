@@ -1,0 +1,10 @@
+{
+    "EnbFlag": true,
+    "Langs": ["Turkish", "Russian"],
+    "Times": ["Istanbul", "Turkey", "Almaty"],
+    "Linkinp": 
+    [ 
+          { "Lang":"Turkish", "Links": ["https://www.yahoo.com/?guccounter=1"]},
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
