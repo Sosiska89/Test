@@ -5,6 +5,6 @@
     "Linkinp": 
     [ 
           { "Lang":"Turkish", "Links": ["https://www.yahoo.com/?guccounter=1"]},
-          { "Lang":"Russian", "Links": ["https://www.google.com/", "https://dzen.ru/?yredirect=true"]}
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
     ]
  }
