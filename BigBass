@@ -1,5 +1,5 @@
 {
-    "EnbFlag": ture,
+    "EnbFlag": true,
     "Langs": ["Turkish", "Russian"],
     "Times": ["Istanbul", "Turkey", "Almaty"],
     "Linkinp": 
