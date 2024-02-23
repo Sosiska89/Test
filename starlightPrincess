@@ -7,6 +7,6 @@
     "Linkss": 
     [ 
           { "Lang":"Russian", "Link": ["https://www.google.com/"] },
-          { "Lang":"English", "Link": ["https://www.yahoo.com/"] },
+          { "Lang":"English", "Link": ["https://www.yahoo.com/"] }
     ]
  }
