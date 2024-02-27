@@ -1,13 +1,12 @@
 {
     "Enable": true,
-    "TolerLang": [30,28],
+    "TolerLang": [30],
     "TolerTz": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
-    "Sims": ["401", "283", "400", "257", "437", "259", "436", "434"],
+    "Sims": ["250","401", "283", "400", "257", "437", "259", "436", "434"],
     "Links": 
     [ 
-          { "Lang":30, "Link": "https://www.google.com/"},
-          { "Lang":28, "Link": "https://yandex.com/"}
+          { "Lang":30, "Link": "https://www.google.com/"}
     ]
  }
