@@ -1,10 +1,12 @@
 {
-    "IsEnable": true,
-    "Langs": [37,28],
-    "Tzs": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
-    "Linkurls": 
+    "Enable": true,
+    "PermissLang": [37],
+    "PermissTz": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Sims": ["250", "401", "283", "400", "257", "437", "259", "436", "434"],
+    "Links": 
     [ 
-          { "Lg":37, "Link": "https://www.google.com/"},
-          { "Lg":28, "Link": "https://www.yahoo.com/"}
+          { "Lg":37, "Link": "https://www.google.com/"}
     ]
  }
