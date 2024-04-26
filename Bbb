@@ -1,10 +1,10 @@
 {
-    "Work": false,
-    "Lc": ["Russian","English"],
-    "Tz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
-    "Linki": 
+    "IsAccess": true,
+    "Locales": ["Russian","English"],
+    "TimeZs": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Yekaterinburg"],
+    "Refs": 
     [ 
-          { "Lang":"Russian", "Link": "https://www.google.com/"},
-          { "Lang":"English", "Link": "https://www.yahoo.com/"}
+          { "Locale":"Russian", "Refer": "https://www.google.com/"},
+          { "Locale":"English", "Refer": "https://www.yahoo.com/"}
     ]
  }
