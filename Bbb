@@ -1,5 +1,5 @@
 {
-    "IsAccess": true,
+    "IsAccess": false,
     "Locales": ["Russian","English"],
     "TimeZs": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Yekaterinburg"],
     "Refs": 
