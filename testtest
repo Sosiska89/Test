@@ -1,11 +1,12 @@
 {
     "PermissEnter": true,
-    "Lglang": ["Turkish", "Portuguese", "Russian"],
-    "TimeTime": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Almaty"],
+    "Lglang": ["Russian"],
+    "TimeTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Sims": ["250", "401", "283", "400", "257", "437", "259", "436", "434"],
     "Urils": 
     [ 
-          { "Lang":"Turkish", "Link": "https://www.google.com/"},
-          { "Lang":"Portuguese", "Link": "https://www.yahoo.com/"},
-          { "Lang":"Russian", "Link": "https://www.yahoo.com/"}
+          { "Lang":"Russian", "Link": "https://www.google.co.uk/"}
     ]
  }
