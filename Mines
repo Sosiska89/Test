@@ -1,11 +1,12 @@
 {
     "EnbFlag": true,
-    "Langs": ["Russian"],
+    "Langs": ["Russian", "English"],
     "Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Linkinp": 
     [ 
-          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]},
+          { "Lang":"English", "Links": ["https://scamalytics.com/"]}
     ]
  }
