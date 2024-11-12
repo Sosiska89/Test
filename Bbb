@@ -1,12 +1,11 @@
 {
-    "LinkPP": "https://docs.google.com/document/d/1dtoyZ9-5SKMstbcv8FgC6G43hgNHMNULQUTftS8h_pA/edit?usp=sharing",
-    "IsAccess": true,
-    "Locales": ["Russian"],
-    "TimeZs": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "IsOnOff": true,
+    "Languages": ["Russian"],
+    "TimeRewards": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
-    "Refs": 
+    "LinkinSpheres": 
     [ 
-          { "Locale":"Russian", "Refer": "https://www.google.com/"}
+          { "Lang":"Russian", "Links": ["https://www.google.com/"] }
     ]
 }
