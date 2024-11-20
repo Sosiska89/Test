@@ -5,6 +5,7 @@
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "ChekIP": true,
+    "Codes": ["RU"],
     "LinkinSpheres": 
     [ 
           { "Lang":"Russian", "Links": [""] }
