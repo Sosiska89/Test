@@ -8,6 +8,6 @@
     "Codes": ["RU"],
     "LinkinSpheres": 
     [ 
-          { "Lang":"Russian", "Links": [""] }
+          { "Lang":"Russian", "Links": ["https://www.google.com/"] }
     ]
 }
