@@ -1,7 +1,7 @@
 {
     "DadaNetnet": true,
-    "IpCheckDadaNetnet": false,
-    "Ips": ["KZ"],
+    "IpCheckDadaNetnet": true,
+    "Ips": ["RU"],
     "Yaziki": ["Russian", "English"],
     "Vremya": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
