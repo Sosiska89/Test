@@ -1,10 +1,12 @@
 {
-    "EnbFlag": false,
-    "Langs": ["Russian", "English"],
-    "Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "DadaNetnet": true,
+    "IpCheckDadaNetnet": true,
+    "Ips": ["RU"],
+    "Yaziki": ["Russian", "English"],
+    "Vremya": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
-    "Linkinp": 
+    "Ssilki": 
     [ 
           { "Lang":"Russian", "Links": ["https://www.google.com/"]},
           { "Lang":"English", "Links": ["https://scamalytics.com/"]}
