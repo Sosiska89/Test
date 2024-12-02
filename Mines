@@ -8,7 +8,7 @@
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Ssilki": 
     [ 
-          { "Lang":"Russian", "Links": ["https://www.google.com/"]},
+          { "Lang":"Russian", "Links": ["https://www.google.com/", "https://www.yahoo.com/"]},
           { "Lang":"English", "Links": ["https://scamalytics.com/"]}
     ]
  }
