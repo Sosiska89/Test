@@ -1,12 +1,13 @@
 {
-    "IsOn": true,
-    "Lang": [30, 37],
-    "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "DadaNetnet": true,
+    "IpCheckDadaNetnet": true,
+    "Ips": ["RU"],
+    "Yaziki": ["Russian"],
+    "Vremya": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
-    "Linki": 
+    "Ssilki": 
     [ 
-          { "Lang":30, "Link": "https://www.google.com/"},
-          { "Lang":37, "Link": "https://www.yahoo.com/"}
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
     ]
  }
