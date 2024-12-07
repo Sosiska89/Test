@@ -1,6 +1,13 @@
 {
-  "AdsEnable": true,
-  "InterAfterLoading": "ca-app-pub-3940256099942544/1033173712",
-  "InterPerExit": "ca-app-pub-3940256099942544/1033173712",
-  "InterForReset": "ca-app-pub-3940256099942544/1033173712"
-}
+    "Enable": true,
+    "IpEnable": true,
+    "Ipapis": ["RU"],
+    "Lango": ["Russian"],
+    "Vremyago": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Linkisi": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
