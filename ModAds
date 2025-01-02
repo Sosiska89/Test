@@ -8,6 +8,6 @@
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Ssilks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
     ]
  }
