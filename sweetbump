@@ -6,6 +6,6 @@
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Linkflow": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
     ]
  }
