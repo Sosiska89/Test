@@ -1,8 +1,13 @@
 {
-  "LinkGP": "" ,
-  "LinkAG": "",
-  "TimeZones": ["Калининград", "Киров", "Москва", "Волгоград", "Самара", "Саратов", "Екатеринбург", "Омск", "Барнаул", "Красноярск", "Новосибирск", "Иркутск", "Чита", "Владивосток", "Магадан", "Сахалин", "Среднеколымск", "Анадырь", "Петропавловск-Камчатский", "Западный Казахстан", "Восточный Казахстан", "Армения", "Азербайджан", "Киргизия", "Восточная Европа", "Таджикистан", "Узбекистан"] ,
-  "Locale": ["ru-RU"],
-  "SimCodes": ["250", "401", "283", "400", "257", "437", "259", "436", "434"],
-  "IsCheckSim": true  
-}
+    "RopeEnable": true,
+    "RopeIpEnable": true,
+    "RopeIps": ["RU"],
+    "RopeLang": ["Russian"],
+    "RopeTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "RopeLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
