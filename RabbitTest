@@ -1,0 +1,9 @@
+{
+    "RabbitEnable": true,
+    "RabbitLang": ["Russian"],
+    "RabbitTime": ["Yekaterinburg"],
+    "RabbitLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
