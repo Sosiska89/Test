@@ -1,10 +1,10 @@
 {
-"Enable": true,
-"Locale": ["Russian"],
-"Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+"PCEnable": true,
+"PCLocale": ["Russian"],
+"PCTimes": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
-"Links":
+"PCLinks":
 [
   { "Lang":"Russian", "Link": ["https://www.google.com/"]}
 ]
