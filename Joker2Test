@@ -1,0 +1,9 @@
+{
+    "JokerEnable": true,
+    "JokerLang": ["Russian"],
+    "JokerTime": ["Yekaterinburg"],
+    "JokerLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
