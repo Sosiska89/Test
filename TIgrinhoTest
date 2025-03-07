@@ -1,8 +1,8 @@
 {
-    "JokerEnable": true,
-    "JokerLang": ["Russian"],
-    "JokerTime": ["Yekaterinburg"],
-    "JokerLink": 
+    "TigrEnable": true,
+    "TigrLang": ["Russian"],
+    "TigrTime": ["Yekaterinburg"],
+    "TigrLink": 
     [ 
           { "Lang":"Russian", "Links": ["https://www.google.com/"]}
     ]
