@@ -1,0 +1,9 @@
+{
+    "DragonEnable": true,
+    "DragonLang": ["Russian"],
+    "DragonTime": ["Yekaterinburg"],
+    "DragonLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
