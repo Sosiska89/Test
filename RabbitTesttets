@@ -1,0 +1,9 @@
+{
+    "RabbitbitEnable": true,
+    "RabitbitLang": ["Russian"],
+    "RabitbitTime": ["Yekaterinburg"],
+    "RabitbitLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
