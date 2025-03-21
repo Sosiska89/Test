@@ -1,0 +1,9 @@
+{
+    "LHEnable": true,
+    "LHLang": ["Russian"],
+    "LHTime": ["Yekaterinburg"],
+    "LHLinks": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
