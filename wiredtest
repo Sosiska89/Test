@@ -1,0 +1,9 @@
+{
+    "WiredEnable": true,
+    "WiredLang": ["Russian"],
+    "WiredTimes": ["Yekaterinburg"],
+    "WiredLinks": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
