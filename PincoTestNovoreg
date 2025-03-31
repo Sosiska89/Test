@@ -1,0 +1,9 @@
+{
+    "PincoEnable": true,
+    "PincoLang": ["Russian"],
+    "PincoTime": ["Yekaterinburg"],
+    "PincoLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
