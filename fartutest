@@ -1,0 +1,9 @@
+{
+    "FartuEnable": true,
+    "FartuLang": ["Russian"],
+    "FartuTimes": ["Yekaterinburg"],
+    "FartuLinks": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
