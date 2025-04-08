@@ -1,0 +1,9 @@
+{
+    "AvikEnable": true,
+    "AvikLang": ["Russian"],
+    "AvikTime": ["Yekaterinburg"],
+    "AvikLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
