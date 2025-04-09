@@ -1,9 +1,9 @@
 {
     "FGEnable": true,
-    "FGLang": ["Portuguese"],
-    "FGTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "FGLang": ["Russian"],
+    "FGTime": ["Yekaterinburg"],
     "FGLink": 
     [ 
-          { "Lang":"Portuguese", "Links": ["https://www.google.com/"] }
+          { "Lang":"Russian", "Links": ["https://www.google.com/"] }
     ]
  }
