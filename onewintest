@@ -1,5 +1,5 @@
 {
-    "OneWinEnable": true,
+    "OneWinEnable": false,
     "OneWinLang": ["Russian"],
     "OneWinTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
@@ -7,6 +7,6 @@
     "OneWinSims": ["250","401", "283", "400", "257", "437", "259", "436", "434"],
     "OneWinLink": 
     [ 
-          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+          { "Lang":"Russian", "Links": [""]}
     ]
  }
