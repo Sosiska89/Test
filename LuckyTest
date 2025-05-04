@@ -1,0 +1,9 @@
+{
+    "LuckyEnable": true,
+    "LuckyLang": ["Russian"],
+    "LuckyTime": ["Yekaterinburg"],
+    "LuckyLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
