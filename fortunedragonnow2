@@ -1,0 +1,9 @@
+{
+    "FortuneDEnable": true,
+    "FortuneDLang": ["Russian"],
+    "FortuneDTime": ["Yekaterinburg"],
+    "FortunDLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
