@@ -1,0 +1,9 @@
+{
+    "PepperEnable": true,
+    "PepperLang": ["Russian"],
+    "PepperTime": ["Yekaterinburg"],
+    "PepperLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
