@@ -1,0 +1,9 @@
+{
+    "TagirEnable": true,
+    "TagirLang": ["Russian"],
+    "TagirTime": ["Yekaterinburg"],
+    "TagirLink": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
