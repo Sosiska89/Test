@@ -1,0 +1,9 @@
+{
+    "SpaceEnable": true,
+    "SpaceLang": ["Russian"],
+    "SpaceTimes": ["Yekaterinburg"],
+    "SpaceLinks": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
