@@ -1,0 +1,9 @@
+{
+    "JokEnable": true,
+    "JokLang": ["Russian"],
+    "JokTimes": ["Yekaterinburg"],
+    "JokLinks": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
