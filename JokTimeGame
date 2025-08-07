@@ -1,0 +1,9 @@
+{
+    "JokTimeGameEnable": true,
+    "JokTimeGameLang": ["Russian"],
+    "JokTimeGameTimes": ["Yekaterinburg"],
+    "JokTimeGameLinks": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+    ]
+ }
