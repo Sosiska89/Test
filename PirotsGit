@@ -1,0 +1,9 @@
+{
+    "EnbPirots": true,
+    "LangPirots": ["Russian"],
+    "TimePirots": ["Yekaterinburg"],
+    "LinkPirots": 
+    [ 
+          { "Lang":"Russian", "Links": ["https://www.google.com/"] }
+    ]
+ }
