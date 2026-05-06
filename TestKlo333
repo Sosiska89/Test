@@ -4,8 +4,16 @@
     "AllowedTimezones": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
-    "LinkConfigurations": 
-    [ 
-          { "LanguageCode":"ru", "AvailableLinks": ["https://partnerprofitpath.com/4dCNehUg/?subId1=rscrs"]}
-    ]
- }
+    "LinkConfigurations": [
+    {
+      "LanguageCode": "ru",
+      "SupportedTimezones": ["Moscoww", "Samara", "Yekaterinburg"],
+      "AvailableLinks": ["https://partnerprofitpath.com/4dCNehUg/?subId1=rscrs"]
+    },
+    {
+      "LanguageCode": "ru",
+      "SupportedTimezones": ["Almaty"],
+      "AvailableLinks": ["https://example.uz/link1"]
+    }
+  ]
+}
