@@ -13,7 +13,7 @@
     {
       "LanguageCode": "ru",
       "SupportedTimezones": ["Almaty"],
-      "AvailableLinks": ["https://example.uz/link1"]
+      "AvailableLinks": ["https://www.google.com/"]
     }
   ]
 }
